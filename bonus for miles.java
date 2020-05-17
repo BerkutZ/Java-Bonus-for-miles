@@ -1,4 +1,3 @@
-```
 public class Main {
     public static void main(String[]args) {
        int ticket_cost = 200;
@@ -7,4 +6,3 @@ public class Main {
        System.out.print(bonus_for_miles_current);
                 }
     }
-```
